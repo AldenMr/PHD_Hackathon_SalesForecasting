@@ -1,0 +1,6 @@
+The goal of the hackathon was to build a predictive regression model to forecast the sales of a retail e-commerce company by training the model based on a four-year data including details such as purchase date, store location, promotions, product categories, etc.
+- Implemented RAM optimization strategies to overcome challenges posed by the large size of the data, by merging tables using SQL and separating them year-wise, followed by adjusting the data type of columns as well as leveraging the automatic garbage collection feature of functions.
+- Performed detailed exploratory data analysis using a wide array of visualization techniques such as countplots, barplots, histograms, lineplots and treemaps, as well as in-depth time series analysis.
+- Utilized data preprocessing techniques such as feature engineering, label encoding and median imputation to optimize the data for model building.
+- Implemented advanced ML models such as LightGBM and XGBoost along with feature selection to build a model which achieved the best MAPE score of around 10% in the contest.
+- Presented the findings and provided the necessary answers to the operations team such as the best performing cluster, top 10 selling items in the cluster, and the weekly rate of purchase.
